@@ -9,8 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aswin-n-kaimal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswin-n-kaimal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14594237" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14594237" height="30" width="40" /></a>
-<a href="https://instagram.com/_x__in_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_aswinank._" height="30" width="40" /></a>
-  <a href="#"><b>Coming Soon !<b></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
